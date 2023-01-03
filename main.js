@@ -87,12 +87,12 @@ if(e.shiftKey == true && keyPressed == '67');
    }
    if(keyPressed == '71')
    {
-	new_image('grama.jpg');
+	new_image('grama.png')
 	console.log("g");
    }
    if(keyPressed == '86')
    {
-	new_image('verde_claro.jpg');
+	new_image('verde_claro.png');
 	console.log("v");
    }
    if(keyPressed == '77')
